@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Kalkulator Bagus</string>
+    <string name="SHARE_KEY">Kalkulator Bagus</string>
+    <string name="RECORD_LIST">RecordList</string>
+</resources>
